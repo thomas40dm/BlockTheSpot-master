@@ -1,4 +1,4 @@
-[![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/ZCfbtCf5rJ)
+[![Discord]([https://discord.com/api/guilds/807273906872123412/widget.png](https://cdn.discordapp.com/emojis/1221493536394973254.gif?size=128))](https://discord.gg/ZCfbtCf5rJ)
 <center>
     <h1 align="center">BlockTheSpot</h1>
     <h4 align="center">A multi-purpose adblocker and skip-bypass for the <strong>Spotify for Windows (64 bit)</strong> </h4>
